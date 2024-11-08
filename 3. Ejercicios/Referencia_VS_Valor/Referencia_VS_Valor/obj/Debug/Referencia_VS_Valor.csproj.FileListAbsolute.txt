@@ -1,0 +1,8 @@
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Referencia_VS_Valor\Referencia_VS_Valor\bin\Debug\Referencia_VS_Valor.exe.config
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Referencia_VS_Valor\Referencia_VS_Valor\bin\Debug\Referencia_VS_Valor.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Referencia_VS_Valor\Referencia_VS_Valor\bin\Debug\Referencia_VS_Valor.pdb
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Referencia_VS_Valor\Referencia_VS_Valor\obj\Debug\Referencia_VS_Valor.csproj.AssemblyReference.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Referencia_VS_Valor\Referencia_VS_Valor\obj\Debug\Referencia_VS_Valor.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Referencia_VS_Valor\Referencia_VS_Valor\obj\Debug\Referencia_VS_Valor.csproj.CoreCompileInputs.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Referencia_VS_Valor\Referencia_VS_Valor\obj\Debug\Referencia_VS_Valor.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Referencia_VS_Valor\Referencia_VS_Valor\obj\Debug\Referencia_VS_Valor.pdb

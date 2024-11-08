@@ -1,0 +1,8 @@
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Como_Argumetos\Matrices_Como_Argumetos\bin\Debug\Matrices_Como_Argumetos.exe.config
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Como_Argumetos\Matrices_Como_Argumetos\bin\Debug\Matrices_Como_Argumetos.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Como_Argumetos\Matrices_Como_Argumetos\bin\Debug\Matrices_Como_Argumetos.pdb
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Como_Argumetos\Matrices_Como_Argumetos\obj\Debug\Matrices_Como_Argumetos.csproj.AssemblyReference.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Como_Argumetos\Matrices_Como_Argumetos\obj\Debug\Matrices_Como_Argumetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Como_Argumetos\Matrices_Como_Argumetos\obj\Debug\Matrices_Como_Argumetos.csproj.CoreCompileInputs.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Como_Argumetos\Matrices_Como_Argumetos\obj\Debug\Matrices_Como_Argumetos.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Como_Argumetos\Matrices_Como_Argumetos\obj\Debug\Matrices_Como_Argumetos.pdb

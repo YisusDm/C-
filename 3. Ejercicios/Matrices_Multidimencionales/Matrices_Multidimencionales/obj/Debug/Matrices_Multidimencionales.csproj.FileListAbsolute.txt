@@ -1,0 +1,8 @@
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Multidimencionales\Matrices_Multidimencionales\bin\Debug\Matrices_Multidimencionales.exe.config
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Multidimencionales\Matrices_Multidimencionales\bin\Debug\Matrices_Multidimencionales.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Multidimencionales\Matrices_Multidimencionales\bin\Debug\Matrices_Multidimencionales.pdb
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Multidimencionales\Matrices_Multidimencionales\obj\Debug\Matrices_Multidimencionales.csproj.AssemblyReference.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Multidimencionales\Matrices_Multidimencionales\obj\Debug\Matrices_Multidimencionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Multidimencionales\Matrices_Multidimencionales\obj\Debug\Matrices_Multidimencionales.csproj.CoreCompileInputs.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Multidimencionales\Matrices_Multidimencionales\obj\Debug\Matrices_Multidimencionales.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matrices_Multidimencionales\Matrices_Multidimencionales\obj\Debug\Matrices_Multidimencionales.pdb

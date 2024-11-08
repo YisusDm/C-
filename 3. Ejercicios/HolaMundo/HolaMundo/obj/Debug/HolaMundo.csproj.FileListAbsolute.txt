@@ -1,0 +1,8 @@
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

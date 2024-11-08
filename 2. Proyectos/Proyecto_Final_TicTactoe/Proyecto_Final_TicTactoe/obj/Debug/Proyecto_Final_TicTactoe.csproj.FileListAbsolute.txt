@@ -1,0 +1,15 @@
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\bin\Debug\Proyecto_Final_TicTactoe.exe.config
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\bin\Debug\Proyecto_Final_TicTactoe.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\bin\Debug\Proyecto_Final_TicTactoe.pdb
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\obj\Debug\Proyecto_Final_TicTactoe.csproj.AssemblyReference.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\obj\Debug\Proyecto_Final_TicTactoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\obj\Debug\Proyecto_Final_TicTactoe.csproj.CoreCompileInputs.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\obj\Debug\Proyecto_Final_TicTactoe.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\obj\Debug\Proyecto_Final_TicTactoe.pdb
+C:\Users\jmarquez\Desktop\Consware - school\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\bin\Debug\Proyecto_Final_TicTactoe.exe.config
+C:\Users\jmarquez\Desktop\Consware - school\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\bin\Debug\Proyecto_Final_TicTactoe.exe
+C:\Users\jmarquez\Desktop\Consware - school\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\bin\Debug\Proyecto_Final_TicTactoe.pdb
+C:\Users\jmarquez\Desktop\Consware - school\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\obj\Debug\Proyecto_Final_TicTactoe.csproj.AssemblyReference.cache
+C:\Users\jmarquez\Desktop\Consware - school\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\obj\Debug\Proyecto_Final_TicTactoe.csproj.CoreCompileInputs.cache
+C:\Users\jmarquez\Desktop\Consware - school\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\obj\Debug\Proyecto_Final_TicTactoe.exe
+C:\Users\jmarquez\Desktop\Consware - school\Cursos\C#\Proyecto_Final_TicTactoe\Proyecto_Final_TicTactoe\obj\Debug\Proyecto_Final_TicTactoe.pdb

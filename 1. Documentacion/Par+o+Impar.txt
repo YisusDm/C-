@@ -1,0 +1,18 @@
+static void Main(string[] args)
+        {
+            // Hacer un programa que le pida al usuario un número y decirle si éste es par o impar.
+
+            long numero;
+
+            Console.Write("Dame un número y te diré si es par o impar: ");
+            numero = Convert.ToInt64(Console.ReadLine());
+
+            if((numero % 2) == 0)
+            {
+                Console.WriteLine("El número es par");
+            }
+            else
+            {
+                Console.WriteLine("El número es impar");
+            }
+        }

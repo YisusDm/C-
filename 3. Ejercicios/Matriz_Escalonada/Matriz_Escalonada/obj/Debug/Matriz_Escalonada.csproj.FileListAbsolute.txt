@@ -1,0 +1,8 @@
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matriz_Escalonada\Matriz_Escalonada\bin\Debug\Matriz_Escalonada.exe.config
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matriz_Escalonada\Matriz_Escalonada\bin\Debug\Matriz_Escalonada.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matriz_Escalonada\Matriz_Escalonada\bin\Debug\Matriz_Escalonada.pdb
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matriz_Escalonada\Matriz_Escalonada\obj\Debug\Matriz_Escalonada.csproj.AssemblyReference.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matriz_Escalonada\Matriz_Escalonada\obj\Debug\Matriz_Escalonada.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matriz_Escalonada\Matriz_Escalonada\obj\Debug\Matriz_Escalonada.csproj.CoreCompileInputs.cache
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matriz_Escalonada\Matriz_Escalonada\obj\Debug\Matriz_Escalonada.exe
+C:\Users\jmarquez\Desktop\Nueva carpeta\Cursos\C#\Matriz_Escalonada\Matriz_Escalonada\obj\Debug\Matriz_Escalonada.pdb
